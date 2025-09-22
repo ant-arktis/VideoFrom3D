@@ -126,5 +126,16 @@ python ggi.py --target assets/sampleA/multiviews/spatown_p-e3b0c442_e400_s051106
 ## 📄 Citation
 
 ```
-Comming Soon
+@inproceedings{kim2025videofrom3d,
+  author       = {Geonung Kim and Janghyeok Han and Sunghyun Cho},
+  title        = {VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models},
+  booktitle    = {SIGGRAPH Asia 2025 Conference Papers (SA Conference Papers '25)},
+  year         = {2025},
+  address      = {Hong Kong, Hong Kong},
+  publisher    = {ACM},
+  pages        = {1--11},
+  doi          = {10.1145/3757377.3763871},
+  isbn         = {979-8-4007-2137-3/25/12},
+  url          = {https://doi.org/10.1145/3757377.3763871}
+}
 ```
