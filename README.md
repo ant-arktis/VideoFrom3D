@@ -116,12 +116,6 @@ The generated video sequence is saved in `assets/sampleA/multiviews/spatown_p-e3
 python ggi.py --target assets/sampleA/multiviews/spatown_p-e3b0c442_e400_s051106_r12_ip1
 ```
 
-## ☕️ Acknowledgment
-
-- We borrowed the readme format from [Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) 
-- We finetune a pretrained video diffusion model, [CogVideoX](https://github.com/zai-org/CogVideo) 
-- We generate anchor views using [Flux ControlNet](https://huggingface.co/XLabs-AI/flux-controlnet-collections) 
-
 
 ## 📄 Citation
 
@@ -139,3 +133,10 @@ python ggi.py --target assets/sampleA/multiviews/spatown_p-e3b0c442_e400_s051106
   url          = {https://doi.org/10.1145/3757377.3763871}
 }
 ```
+
+## ☕️ Acknowledgment
+
+- We borrowed the readme format from [Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) 
+- We finetune a pretrained video diffusion model, [CogVideoX](https://github.com/zai-org/CogVideo) 
+- We generate anchor views using [Flux ControlNet](https://huggingface.co/XLabs-AI/flux-controlnet-collections) 
+
