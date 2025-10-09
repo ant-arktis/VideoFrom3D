@@ -23,7 +23,7 @@ Navigate to the `exampleA` directory and open the file in Blender:
 
 ### Outliner Window
 
-![outliner](assets/outliner.png)
+![outliner](image4readme/outliner.png)
 
 In the **Outliner**, you will see three collections and one Line Art component.  
 Their roles are as follows:
@@ -39,7 +39,7 @@ For custom data, users only need to replace the **Geometry** and **Trajectory** 
 
 ### Blender Script
 
-![blender script](assets/script.png)
+![blender script](image4readme/script.png)
 
 In the script editor, you will find a Python script.
 The code is divided into two parts: one renders the correspondence maps, and the other renders edge maps.  
@@ -75,7 +75,7 @@ The `corres` folder contains correspondence maps, while the `normal` folder cont
 
 Below are sample renderings for reference. If your results differ significantly, something may be wrong.
 
-![arc examples](assets/arc_examples.png)
+![arc examples](image4readme/arc_examples.png)
 
 ---
 
@@ -122,7 +122,7 @@ Instead of creating a new Blender project from scratch, it is recommended to sta
 3. **Important:** Assign the material `projector_mat` to *all* objects in the geometry.  
    Otherwise, the projector will fail to project the UV map onto the geometry correctly.
 
-![material](assets/material.png)
+![material](image4readme/material.png)
 
 ---
 
