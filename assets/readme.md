@@ -1,8 +1,8 @@
 # Preprocessing Guide
 
-This document provides a detailed explanation of the preprocessing procedure.
-The process requires **Blender** and several **Python scripts**.
-The tested Blender version is **3.1.2**.
+This document provides a detailed explanation of the preprocessing procedure. 
+The process requires **Blender** and several **Python scripts**. 
+The tested Blender version is **3.1.2**.  
 Since the preprocessing is relatively complex, we first introduce an **example workflow**, followed by a **customized usage guide**.
 
 ---
@@ -109,7 +109,8 @@ This completes the preprocessing required for video generation using **SAG** and
 
 ## 2. Preprocessing for Custom Datasets
 
-The above example shows preprocessing with the provided sample.  This section explains how to apply preprocessing to **custom data**.
+The above example shows preprocessing with the provided sample.  
+This section explains how to apply preprocessing to **custom data**.
 
 Instead of creating a new Blender project from scratch, it is recommended to start from the provided example and modify it as needed.  Users mainly need to update **Geometry** and **Trajectory** collections.
 

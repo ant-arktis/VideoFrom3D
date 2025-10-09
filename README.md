@@ -36,13 +36,18 @@
 
 ## 🔥 Update
 
+- [2025.10.10] Preprocessing code is released.
 - [2025.09.08] The repository is created.
 
 ## 🔧 Todo
 
 - [x] Release model checkpoint
 - [x] Release inference code
-- [ ] Release preprocessing code 
+- [x] Release preprocessing code 
+
+## ⚙️ Preprocessing
+
+The detailed preprocessing procedure, such as edge and flow extracation, is explained at [VideoFrom3D/assets/readme.md](https://github.com/KIMGEONUNG/VideoFrom3D/tree/main/assets). Please refer to this document.
 
 ## ⌨️ Inference
 
